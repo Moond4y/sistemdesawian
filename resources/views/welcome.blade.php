@@ -362,7 +362,7 @@
                           <i class="fas fa-umbrella-beach"></i>
                         </div>
                         <h6 class="text-xl font-semibold">Penduduk</h6>
-                        <p class="mt-2 mb-4 text-gray-600">
+                        <p class="mt-2 mb-4 text-gray-600"> 
                          0
                         </p>
                       </div>
